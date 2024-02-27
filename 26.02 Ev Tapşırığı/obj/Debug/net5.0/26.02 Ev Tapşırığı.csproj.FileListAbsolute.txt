@@ -1,0 +1,15 @@
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\bin\Debug\net5.0\26.02 Ev Tapşırığı.exe
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\bin\Debug\net5.0\26.02 Ev Tapşırığı.deps.json
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\bin\Debug\net5.0\26.02 Ev Tapşırığı.runtimeconfig.json
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\bin\Debug\net5.0\26.02 Ev Tapşırığı.runtimeconfig.dev.json
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\bin\Debug\net5.0\26.02 Ev Tapşırığı.dll
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\bin\Debug\net5.0\26.02 Ev Tapşırığı.pdb
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\26.02 Ev Tapşırığı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\26.02 Ev Tapşırığı.AssemblyInfoInputs.cache
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\26.02 Ev Tapşırığı.AssemblyInfo.cs
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\26.02 Ev Tapşırığı.csproj.CoreCompileInputs.cache
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\26.02 Ev Tapşırığı.dll
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\refint\26.02 Ev Tapşırığı.dll
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\26.02 Ev Tapşırığı.pdb
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\26.02 Ev Tapşırığı.genruntimeconfig.cache
+C:\Users\Chinare\Downloads\26.02 Ev Tapşırığı\26.02 Ev Tapşırığı\obj\Debug\net5.0\ref\26.02 Ev Tapşırığı.dll
